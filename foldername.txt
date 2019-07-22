@@ -1,1 +1,1 @@
-Examples/aus_short_inittopo/results_0
+Examples/png-small/results_3
